@@ -1,5 +1,11 @@
 # ABC-S-HOMEMADE-CAKE
-WEBSITE WITH ADMINDASHBOARD
+With Features
+*Admin Dashboard
+*Reservation
+*Contact
+*Slider
+*Item/Product
+
 
 This Application is using Laravel, Materialize-css version 1.0.0 alpha-4 , material icons.
 
