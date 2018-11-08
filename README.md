@@ -37,6 +37,8 @@ This Application is using Laravel, Materialize-css version 1.0.0 alpha-4 , mater
 
 #### ScreenShot
 
-![screen shot](https://github.com/SagarMaheshwary/Employee/blob/master/screenshot/ems.PNG)
+![screen shot](https://github.com/lukermatthew/ABC-S-HOMEMADE-CAKE/blob/master/screenshot/21.jpg)
+![screen shot](https://github.com/lukermatthew/ABC-S-HOMEMADE-CAKE/blob/master/screenshot/22.jpg)
+
 
 Thankyou.
